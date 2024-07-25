@@ -20,23 +20,24 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 ### Template
 
 ```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Vídeo de um Avatar - Curso de IA e Conceito Machine Learning ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+No meu projeto fiz um vídeo com Avatar falando de: IA e Conceitos de Machine Learning.
+É um vídeo que fui desafiada pela DIO de desenvolver e foi utilizada a inovação, onde utilizo um avatar criado com Inteligência Artificial para explicar os conceitos de Machine Learning. No vídeo, o avatar interativo aborda tópicos como o funcionamento do Machine Learning, diferenças entre IA, Machine Learning e Deep Learning, principais algoritmos, aplicações práticas e tendências futuras. É uma maneira dinâmica e acessível de aprender sobre essas tecnologias revolucionárias. 
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT
+DI-D
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Fui atrás das técnias para criar Avatares através da IA em sites para conseguir fazer um vídeo que fala sobre a ideia pensada: Machine Learning e os Conceitos de IA. Adequei um avatar através de uma foto minha, defeni as palavras, os estilo do avatar, a voz etc.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Com a ultilização da IA consegui ter pronto um vídeo explicativo sobre o assunto do projeto.
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+É um misto de emoções, pois é legal e muito curioso ver o que podemos desenvolver hoje em dia de um a maneira simples através da IA mas ao mesmo tempo assutador. O que consigo tirar disso é que é legal usarmos isso no nosso dia a dia, mas nisso tudo deve haver muita cautela, cuidado, criatividade e o mais importante de tudo o diferencial que somente o ser humano pode ter!
 
 ### Exemplos e Insigths
 
